@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         B站直播 TTS 播报
 // @namespace    heixiu.bilibili.live.tts
-// @version      0.2.14
-// @description  播报B站直播间的进房、关注、点赞、送礼、弹幕和醒目留言，并提供可配置的TTS设置页
+// @version      0.2.15
+// @description  播报B站直播间的进房、关注、点赞、送礼、弹幕和醒目留言，并提供可配置的TTS设置页 · https://github.com/AdoreJc/blive-tts
 // @author       AdoreJc
 // @license      MIT
 // @match        https://live.bilibili.com/*

@@ -6,6 +6,8 @@
 
 **仓库地址**：https://github.com/AdoreJc/blive-tts
 
+**Greasy Fork**：https://greasyfork.org/en/scripts/597678 （自动同步本仓库 `bilibili-live-tts.user.js`）
+
 ## 特性
 
 - **六类互动播报**：进房、关注、点赞、送礼、弹幕、醒目留言，每类可单独开关、单独模板
