@@ -61,4 +61,6 @@ assert.match(source, /log\('开始播报TTS文本', sentence/, '播报日志需�
 const prefetchBlock = source.slice(source.indexOf('prefetch()'), source.indexOf('isCloud()'));
 assert.ok(!prefetchBlock.includes('queue.includes'), 'prefetch 不能丢弃已取回的音频');
 
+assert.match(source, /@license\s+MIT/, '发布需带 @license MIT');
+
 console.log('userscript contract checks passed');
